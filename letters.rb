@@ -4,3 +4,6 @@
 'Snoopy says #%^/&*@! when he stubs his toe.'
 '     '
 ''
+puts 'Hello, world!'
+puts ''
+puts 'Good-bye.'
